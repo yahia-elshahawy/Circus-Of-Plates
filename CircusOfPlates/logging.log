@@ -1,0 +1,1807 @@
+2017-09-12 12:29:38,767 INFO  Player.Player (Player.java:160) - Player 1's Control Strategy is set to arrows
+2017-09-12 12:29:38,768 INFO  Player.Player (Player.java:166) - Player 2's Control Strategy is set to mouse
+2017-09-12 12:29:42,004 INFO  Player.Player (Player.java:156) - Player 2's Control Strategy is set to A-D
+2017-09-12 12:29:43,281 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,281 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,307 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,307 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,331 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,331 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,355 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,355 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,380 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,380 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,404 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,405 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,429 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,429 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,456 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,456 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,482 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,482 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,504 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,505 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,530 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,530 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,558 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,558 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,579 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,579 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,604 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,605 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,865 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 1's Right Stack
+2017-09-12 12:29:43,865 INFO  Player.Player (Player.java:275) - Left Stack size equals 1
+2017-09-12 12:29:43,872 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,872 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,897 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,897 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,922 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,922 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,946 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,946 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,969 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,970 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:43,994 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:43,995 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,019 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,019 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,019 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,044 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,044 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,044 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,068 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,068 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,068 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,094 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,117 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,142 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,171 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,176 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,176 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,192 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,200 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,201 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,217 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,226 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,226 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,244 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,253 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,253 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,270 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,274 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,274 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,292 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,301 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,301 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,318 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,324 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,324 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,342 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,352 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,353 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,369 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,373 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,374 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,394 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,398 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,398 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,418 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,423 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,423 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,443 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,468 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,474 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,474 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,492 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,496 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,497 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,517 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,522 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,522 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,542 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,546 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,546 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,566 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,571 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,571 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,591 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,595 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,596 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,618 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,623 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,623 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,639 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,647 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,647 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,666 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,671 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,671 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,691 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,696 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,696 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,716 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,720 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,721 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,742 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,747 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,747 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,765 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,774 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,774 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,792 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,796 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,796 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,816 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,821 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,821 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,841 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,845 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,845 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,866 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,873 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,873 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,889 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,896 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,897 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,914 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,922 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,923 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,939 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,945 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,946 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,966 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,972 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,973 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:44,991 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,997 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:44,997 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:45,017 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,022 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,023 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:45,042 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,048 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,048 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:45,066 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,073 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,073 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:45,093 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,097 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:45,097 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:45,100 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,101 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:45,118 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,124 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,124 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:45,148 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,154 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,155 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:45,166 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,173 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,173 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:45,192 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,197 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,198 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:45,218 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,224 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,225 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:45,241 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,265 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,291 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,316 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,340 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,363 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,393 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,417 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,443 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,462 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,489 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,514 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,529 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:45,530 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:45,539 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,567 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,590 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,613 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,640 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,665 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,688 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,715 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,740 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,765 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,789 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,816 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,840 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,865 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,887 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:45,887 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:45,889 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:45,913 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:46,162 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:46,162 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:49,491 INFO  Player.Player (Player.java:166) - Player 2's Control Strategy is set to mouse
+2017-09-12 12:29:49,496 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:49,497 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:49,562 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,564 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 2's Right Stack
+2017-09-12 12:29:49,564 INFO  Player.Player (Player.java:275) - Left Stack size equals 1
+2017-09-12 12:29:49,572 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,585 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,603 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,610 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 2's Left Stack
+2017-09-12 12:29:49,610 INFO  Player.Player (Player.java:265) - Left Stack size equals 1
+2017-09-12 12:29:49,618 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,625 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,634 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,643 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,653 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,661 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,674 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,684 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,687 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 1's Right Stack
+2017-09-12 12:29:49,687 INFO  Player.Player (Player.java:275) - Left Stack size equals 2
+2017-09-12 12:29:49,693 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,703 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,715 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,724 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,733 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,742 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,756 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,765 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,774 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,783 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,796 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,805 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,812 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:49,813 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:49,815 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:49,816 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,817 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,825 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,827 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:49,827 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:49,834 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,838 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:49,838 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,846 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,855 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,863 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:49,864 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,864 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,877 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,889 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,893 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:49,894 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,898 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,914 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:49,914 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,939 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:49,939 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,947 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,956 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,964 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:49,964 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,969 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,978 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,987 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,987 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:49,987 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:49,996 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,008 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,013 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,013 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,018 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,027 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,036 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,037 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,042 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,046 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,060 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,064 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,064 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,084 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,090 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,090 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,101 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,109 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,113 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,113 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,136 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:50,136 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:50,138 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,138 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,163 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,163 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,177 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,187 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,187 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,223 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,224 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,224 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,246 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,246 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,273 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,273 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,277 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,299 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,299 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,303 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,308 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,321 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,325 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,325 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,327 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 2's Right Stack
+2017-09-12 12:29:50,328 INFO  Player.Player (Player.java:275) - Left Stack size equals 2
+2017-09-12 12:29:50,330 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,341 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,350 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,350 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,350 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,359 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,367 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,372 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,372 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,380 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,389 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,397 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,397 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,402 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,411 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,414 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:50,414 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:50,425 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,425 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,426 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,430 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,441 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,449 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,450 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,450 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,462 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,472 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,472 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,472 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,480 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,489 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,497 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,497 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,502 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,522 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,522 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,522 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,543 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,547 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,547 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,552 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,561 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,571 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,572 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,572 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,596 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,596 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,601 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,621 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,622 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,622 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,650 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,651 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,671 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,671 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,700 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,700 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,721 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,721 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,739 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:50,739 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:50,750 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,750 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,754 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,771 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,771 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,800 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,800 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,804 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,813 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,822 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,823 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,823 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,836 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,844 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,850 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,850 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,854 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,863 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,871 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,871 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,876 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,885 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,893 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,898 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,898 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,903 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,916 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,921 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:50,921 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,925 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,939 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,946 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,984 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:50,990 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:50,991 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:51,055 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:51,063 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:51,075 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:51,084 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:51,096 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:51,105 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:51,119 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:51,290 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:51,291 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:51,296 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:51,297 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:51,586 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 2's Left Stack
+2017-09-12 12:29:51,586 INFO  Player.Player (Player.java:265) - Left Stack size equals 2
+2017-09-12 12:29:51,671 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:51,693 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:51,718 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:51,745 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:51,772 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:51,796 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:51,819 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:51,848 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:51,871 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:51,892 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:51,919 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:51,943 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:51,946 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:51,946 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:51,968 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:51,992 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:52,019 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:52,045 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:52,049 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 2's Left Stack
+2017-09-12 12:29:52,050 INFO  Player.Player (Player.java:265) - Left Stack size equals 3
+2017-09-12 12:29:52,067 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:52,093 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:52,117 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:52,144 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:52,168 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:52,192 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:52,220 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:52,244 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:52,253 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:52,254 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:52,288 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 2's Left Stack
+2017-09-12 12:29:52,289 INFO  Player.Player (Player.java:265) - Left Stack size equals 4
+2017-09-12 12:29:52,552 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 2's Left Stack
+2017-09-12 12:29:52,553 INFO  Player.Player (Player.java:265) - Left Stack size equals 5
+2017-09-12 12:29:52,854 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:52,854 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:53,215 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:53,215 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:53,377 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:53,377 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:53,786 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:53,786 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:53,815 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:53,838 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:53,865 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:53,888 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:53,915 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:53,940 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:53,966 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:53,983 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:53,983 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:53,989 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,015 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,038 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,060 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:54,060 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:54,067 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,090 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,114 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,269 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,274 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:54,274 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:54,292 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,319 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,343 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,367 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,395 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,416 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:54,416 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:54,419 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,442 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,468 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,496 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,551 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:54,552 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:54,559 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:54,559 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:54,598 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:54,598 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:54,665 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,665 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:54,688 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,688 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:54,715 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,715 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:54,738 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,738 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:54,765 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,766 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:54,788 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,788 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:54,815 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,815 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:54,839 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,839 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:54,841 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 2's Left Stack
+2017-09-12 12:29:54,841 INFO  Player.Player (Player.java:265) - Left Stack size equals 6
+2017-09-12 12:29:54,863 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,863 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:54,890 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,890 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:54,914 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,914 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:54,937 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,937 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:54,964 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:54,964 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,122 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:55,122 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:55,309 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 2's Left Stack
+2017-09-12 12:29:55,309 INFO  Player.Player (Player.java:265) - Left Stack size equals 7
+2017-09-12 12:29:55,407 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:55,407 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:55,478 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,480 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 2's Right Stack
+2017-09-12 12:29:55,480 INFO  Player.Player (Player.java:275) - Left Stack size equals 3
+2017-09-12 12:29:55,490 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,493 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 2's Left Stack
+2017-09-12 12:29:55,493 INFO  Player.Player (Player.java:265) - Left Stack size equals 8
+2017-09-12 12:29:55,499 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,512 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,520 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,532 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,541 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,551 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,560 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,575 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,592 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,597 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,611 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,620 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,632 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,639 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,652 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,656 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 2's Left Stack
+2017-09-12 12:29:55,656 INFO  Player.Player (Player.java:265) - Left Stack size equals 9
+2017-09-12 12:29:55,659 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,671 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,683 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,689 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:55,689 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:55,710 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,722 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,733 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,742 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,752 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,762 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,771 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,783 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,792 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,802 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,811 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,820 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,833 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,845 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,855 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,866 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,872 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,885 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,896 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,902 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,914 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,925 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,931 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,944 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,954 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,965 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,978 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,984 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:55,993 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,003 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,014 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,024 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,036 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,042 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,055 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,063 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,069 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:56,069 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:56,075 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,108 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:56,109 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:56,292 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:56,292 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:56,347 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,356 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,368 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,395 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,398 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:56,398 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:56,411 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,412 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,412 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,420 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,445 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,445 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,445 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,462 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,479 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,480 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,480 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,488 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,496 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,500 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,500 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,508 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,517 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,529 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,530 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,530 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,538 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,546 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,550 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,550 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,558 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,570 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,575 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,575 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,579 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,602 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,603 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,629 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,645 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,650 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,650 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,663 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,674 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,674 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,680 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,689 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,700 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,700 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,723 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,723 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,748 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,749 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,770 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,774 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,774 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,779 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,798 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,799 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,799 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,811 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,819 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,824 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,824 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,829 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,841 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,850 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,850 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,850 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,862 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,870 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,874 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,875 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,879 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,891 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,899 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,900 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,900 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,912 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,920 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,925 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,925 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,931 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,940 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,949 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,949 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,953 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,962 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,964 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:56,964 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:56,971 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,975 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,976 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,980 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,992 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:56,997 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:56,997 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,002 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,015 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,020 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,026 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,026 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,043 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,047 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,048 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,052 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,071 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,076 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,076 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,080 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,092 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,097 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,097 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,101 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,123 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,124 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,124 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,144 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,149 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,149 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,153 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,162 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,174 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,174 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,183 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,198 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,199 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,199 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,213 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,225 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,225 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,226 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,245 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,249 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,249 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,263 INFO  Player.Player (Player.java:308) - 2 Shapes has been removed from Player 2's Left Stack
+2017-09-12 12:29:57,263 INFO  Player.Player (Player.java:310) - Left Stack size equals 7
+2017-09-12 12:29:57,263 INFO  Player.Player (Player.java:311) - A Point is added to Player 2's score
+2017-09-12 12:29:57,264 INFO  View.GamePanel (GamePanel.java:234) - Player1's score changed to 0
+2017-09-12 12:29:57,264 INFO  View.GamePanel (GamePanel.java:237) - Player2's score changed to 1
+2017-09-12 12:29:57,274 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,274 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,274 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,301 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,301 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,350 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:57,350 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:57,362 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,362 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,367 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,376 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,393 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,393 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,394 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,403 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,416 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,416 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,416 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,429 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,435 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,439 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,439 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,447 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,456 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,469 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,469 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,470 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,475 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,486 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,490 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,490 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,497 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,510 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,515 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,515 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,515 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,525 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,535 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,541 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,542 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,547 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,557 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,564 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,564 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,568 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,577 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,588 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,589 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,598 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:57,599 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:57,616 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,616 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,639 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,639 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,649 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:57,650 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:57,665 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,665 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,687 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,688 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,715 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,715 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,738 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,739 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,762 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,762 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,788 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:57,788 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,812 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:57,875 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 2's Left Stack
+2017-09-12 12:29:57,875 INFO  Player.Player (Player.java:265) - Left Stack size equals 8
+2017-09-12 12:29:58,107 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,107 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,119 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,122 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 2's Left Stack
+2017-09-12 12:29:58,122 INFO  Player.Player (Player.java:265) - Left Stack size equals 9
+2017-09-12 12:29:58,133 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,133 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,157 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,157 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,182 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,182 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,205 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,206 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,230 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,230 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,236 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:58,236 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:58,258 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,258 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,289 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,289 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,312 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,312 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,335 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,335 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,352 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:58,352 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:58,362 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,362 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,385 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,385 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,411 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,412 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,728 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:58,728 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:58,734 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,734 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,757 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,757 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,784 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,784 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,807 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,807 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,832 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,832 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,859 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,860 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,882 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,883 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,910 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,910 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:58,933 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:58,933 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:29:59,009 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:59,009 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:59,179 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:59,179 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:59,199 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:59,199 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:59,562 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:29:59,562 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:29:59,667 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:59,690 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:59,719 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:59,743 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:59,765 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:59,792 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:59,818 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:59,843 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:59,869 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:59,891 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:59,915 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:59,940 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:59,966 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:29:59,991 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:00,015 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:00,128 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:00,128 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:00,220 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:00,220 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:00,235 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:00,236 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:00,412 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:00,412 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:00,499 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:00,499 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:00,511 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:00,511 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:00,675 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,685 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,701 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,720 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,733 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,743 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,755 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,763 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,775 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,777 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:00,778 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:00,786 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,795 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:00,795 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:00,798 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,802 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,814 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,823 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,835 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,843 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,855 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,863 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,875 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,895 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:00,899 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,906 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,917 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,923 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:00,930 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,936 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,943 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:00,949 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,956 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,968 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,972 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:00,987 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:00,996 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,000 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,005 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,017 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,022 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,026 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,038 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,043 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,047 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,055 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,065 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:01,066 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:01,068 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,073 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,078 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,095 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,099 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,109 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,117 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,122 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,126 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,139 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,144 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,148 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,157 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,166 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,170 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,175 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,188 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,196 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,200 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,218 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,223 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,227 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,239 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,244 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,249 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,261 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,267 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,272 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,275 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:01,275 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:01,283 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,287 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,295 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,299 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,308 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,320 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,328 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,355 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,361 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:01,362 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:01,377 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:01,378 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:01,399 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,407 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,420 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,429 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,452 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,458 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,470 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,475 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,479 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,492 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,501 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,501 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,510 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,522 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,527 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,532 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,551 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,551 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,560 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,572 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,577 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,581 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,601 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,601 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,625 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,649 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,650 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,674 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,702 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,702 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,717 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,726 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,735 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,740 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,749 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,765 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,774 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,774 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,782 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,791 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,800 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,801 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,816 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,821 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,825 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,833 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:01,852 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,876 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,899 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,926 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,952 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,975 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:01,999 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,003 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,013 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 1's Right Stack
+2017-09-12 12:30:02,013 INFO  Player.Player (Player.java:275) - Left Stack size equals 3
+2017-09-12 12:30:02,015 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,024 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,026 INFO  Player.Player (Player.java:308) - 2 Shapes has been removed from Player 2's Left Stack
+2017-09-12 12:30:02,027 INFO  Player.Player (Player.java:310) - Left Stack size equals 7
+2017-09-12 12:30:02,027 INFO  Player.Player (Player.java:311) - A Point is added to Player 2's score
+2017-09-12 12:30:02,027 INFO  View.GamePanel (GamePanel.java:234) - Player1's score changed to 0
+2017-09-12 12:30:02,027 INFO  View.GamePanel (GamePanel.java:237) - Player2's score changed to 2
+2017-09-12 12:30:02,042 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,042 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,055 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,064 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,069 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,077 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,085 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,090 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,094 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,102 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,115 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,115 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,124 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,136 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,140 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,144 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,156 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,164 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,165 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,173 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,176 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:02,176 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:02,186 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,190 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,194 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,207 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,216 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,216 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,225 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,241 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,282 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,282 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,308 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,330 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,334 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,365 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,382 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,397 INFO  Player.Player (Player.java:308) - 2 Shapes has been removed from Player 2's Left Stack
+2017-09-12 12:30:02,398 INFO  Player.Player (Player.java:310) - Left Stack size equals 5
+2017-09-12 12:30:02,398 INFO  Player.Player (Player.java:311) - A Point is added to Player 2's score
+2017-09-12 12:30:02,398 INFO  View.GamePanel (GamePanel.java:234) - Player1's score changed to 0
+2017-09-12 12:30:02,398 INFO  View.GamePanel (GamePanel.java:237) - Player2's score changed to 3
+2017-09-12 12:30:02,401 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,407 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,407 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,426 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,432 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,439 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,447 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,457 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,457 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,469 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,478 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:02,479 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:02,482 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,482 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,485 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:02,486 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:02,489 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,499 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,509 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,509 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,518 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,534 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,560 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,579 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,584 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,586 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 2's Right Stack
+2017-09-12 12:30:02,586 INFO  Player.Player (Player.java:275) - Left Stack size equals 4
+2017-09-12 12:30:02,590 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:02,590 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:02,597 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,605 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,610 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,619 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,630 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,630 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,639 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,651 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,655 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,659 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,672 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,679 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,680 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,692 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,700 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,704 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,708 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,721 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,728 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,733 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,742 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,750 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,755 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,775 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,781 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 1's Right Stack
+2017-09-12 12:30:02,781 INFO  Player.Player (Player.java:275) - Left Stack size equals 4
+2017-09-12 12:30:02,792 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,794 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:02,795 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:02,802 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,819 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,820 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,829 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,841 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,846 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,850 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,863 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,867 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,872 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,881 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,891 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,897 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,899 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:02,899 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:02,902 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,910 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,918 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,923 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,930 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,942 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,943 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,950 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,962 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,971 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:02,971 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,983 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,992 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:02,992 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,004 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,017 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,025 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,042 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,042 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,051 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,067 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,084 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,092 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,120 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,124 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,169 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,170 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,174 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,186 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,194 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,195 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,203 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,215 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,219 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,224 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,232 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,244 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,244 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,256 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,264 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,268 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,272 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,284 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,292 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,293 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,305 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,312 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,315 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 1's Right Stack
+2017-09-12 12:30:03,315 INFO  Player.Player (Player.java:275) - Left Stack size equals 5
+2017-09-12 12:30:03,317 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,325 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,333 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,344 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,345 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,357 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,365 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,369 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,374 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,386 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,472 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,473 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,485 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,490 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,498 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,507 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,515 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,516 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,529 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,538 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,542 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,546 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,559 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,567 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,568 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,588 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,592 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,615 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,634 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 2's Left Stack
+2017-09-12 12:30:03,634 INFO  Player.Player (Player.java:265) - Left Stack size equals 6
+2017-09-12 12:30:03,640 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,664 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,689 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,712 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,742 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,763 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,790 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,790 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,814 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,815 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,839 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,848 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:03,849 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:03,863 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,865 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 1's Right Stack
+2017-09-12 12:30:03,865 INFO  Player.Player (Player.java:275) - Left Stack size equals 6
+2017-09-12 12:30:03,889 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:03,903 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,909 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:03,920 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,090 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 2's Right Stack
+2017-09-12 12:30:04,090 INFO  Player.Player (Player.java:275) - Left Stack size equals 5
+2017-09-12 12:30:04,262 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:04,283 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,288 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:04,292 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,305 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,313 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:04,314 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,322 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,335 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,338 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 2's Right Stack
+2017-09-12 12:30:04,338 INFO  Player.Player (Player.java:275) - Left Stack size equals 6
+2017-09-12 12:30:04,338 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 2's Right Stack
+2017-09-12 12:30:04,338 INFO  Player.Player (Player.java:275) - Left Stack size equals 7
+2017-09-12 12:30:04,340 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:04,344 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,353 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,361 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:04,363 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:04,363 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:04,365 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,374 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,382 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,387 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:04,396 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,404 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,413 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:04,417 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,426 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,434 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,439 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:04,455 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,464 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:04,464 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,476 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,484 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,488 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:04,515 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:04,520 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,525 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,536 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:04,544 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,560 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:04,565 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,588 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:04,604 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,610 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 2's Right Stack
+2017-09-12 12:30:04,611 INFO  Player.Player (Player.java:275) - Left Stack size equals 8
+2017-09-12 12:30:04,637 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,645 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,651 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:04,651 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:04,658 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,678 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,733 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:04,734 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:04,740 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,748 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,778 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 2's Right Stack
+2017-09-12 12:30:04,778 INFO  Player.Player (Player.java:275) - Left Stack size equals 9
+2017-09-12 12:30:04,798 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,838 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,858 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,867 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,888 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:04,908 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:05,027 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:05,027 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:05,044 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 2's Right Stack
+2017-09-12 12:30:05,044 INFO  Player.Player (Player.java:275) - Left Stack size equals 10
+2017-09-12 12:30:05,381 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:05,381 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:05,434 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:05,435 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:05,657 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:05,657 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:05,878 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 2's Left Stack
+2017-09-12 12:30:05,878 INFO  Player.Player (Player.java:265) - Left Stack size equals 7
+2017-09-12 12:30:06,037 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 2's Left Stack
+2017-09-12 12:30:06,037 INFO  Player.Player (Player.java:265) - Left Stack size equals 8
+2017-09-12 12:30:06,153 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:06,153 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:06,440 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:06,441 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:06,491 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:06,491 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:06,556 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:06,556 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:07,107 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:07,108 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:07,161 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:07,161 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:07,188 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:07,188 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:07,315 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 2's Left Stack
+2017-09-12 12:30:07,315 INFO  Player.Player (Player.java:265) - Left Stack size equals 9
+2017-09-12 12:30:07,324 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:07,324 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:07,395 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:07,396 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:07,605 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:07,605 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:07,683 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:07,684 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:07,773 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:07,774 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:07,790 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:07,790 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:07,994 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:07,994 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:08,244 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:08,245 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:08,316 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:08,316 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:08,475 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:08,475 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:08,552 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:08,552 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:08,696 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:08,696 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:08,729 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:08,752 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:08,779 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:08,803 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:08,830 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:08,852 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:08,876 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:08,979 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:08,980 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:08,995 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:08,995 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:09,279 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:09,279 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:09,330 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:09,330 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:09,352 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:09,352 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:09,610 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:09,639 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:09,655 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:09,656 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:09,658 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:09,685 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:09,708 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:09,733 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:09,761 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:09,785 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:09,809 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:09,845 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 1's Right Stack
+2017-09-12 12:30:09,846 INFO  Player.Player (Player.java:275) - Left Stack size equals 7
+2017-09-12 12:30:09,900 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 1's Right Stack
+2017-09-12 12:30:09,900 INFO  Player.Player (Player.java:275) - Left Stack size equals 8
+2017-09-12 12:30:10,133 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 1's Right Stack
+2017-09-12 12:30:10,133 INFO  Player.Player (Player.java:275) - Left Stack size equals 9
+2017-09-12 12:30:10,155 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:10,155 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:10,400 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:10,400 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:10,645 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 1's Left Stack
+2017-09-12 12:30:10,645 INFO  Player.Player (Player.java:265) - Left Stack size equals 1
+2017-09-12 12:30:10,650 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 1's Left Stack
+2017-09-12 12:30:10,650 INFO  Player.Player (Player.java:265) - Left Stack size equals 2
+2017-09-12 12:30:10,821 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:10,821 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:10,878 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:10,878 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:10,957 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:10,957 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:10,980 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:10,980 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,007 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,007 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,031 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,031 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,033 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 2's Right Stack
+2017-09-12 12:30:11,033 INFO  Player.Player (Player.java:275) - Left Stack size equals 11
+2017-09-12 12:30:11,055 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,055 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,082 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,082 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,106 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,106 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,108 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:11,108 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:11,130 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,130 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,140 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:11,140 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:11,158 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,158 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,160 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:11,160 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:11,183 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,183 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,206 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,206 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,231 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,231 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,256 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,256 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,286 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,286 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,307 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,307 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,322 INFO  Player.Player (Player.java:273) - A Shape is being added to Player 2's Right Stack
+2017-09-12 12:30:11,322 INFO  Player.Player (Player.java:275) - Left Stack size equals 12
+2017-09-12 12:30:11,333 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,333 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,356 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,356 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,383 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,383 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,404 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:11,404 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:11,406 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,406 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,433 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,433 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,435 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:11,435 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:11,456 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,457 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,483 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,483 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,507 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,507 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,531 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,531 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,554 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-09-12 12:30:11,554 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:30:11,581 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:11,581 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:11,715 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-09-12 12:30:11,715 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-09-12 12:30:14,124 INFO  Player.Player (Player.java:166) - Player 2's Control Strategy is set to mouse
+2017-09-12 12:30:14,571 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,571 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,572 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,572 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,572 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,572 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,572 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,572 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,572 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,573 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,573 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,573 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,573 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,573 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,573 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,573 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,573 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,574 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,574 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,574 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,574 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,574 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,574 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,574 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,574 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,575 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,575 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,575 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,575 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,575 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,575 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,575 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,575 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,576 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,576 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,576 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,576 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,576 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,576 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,576 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,577 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,577 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,577 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,577 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,577 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,577 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,577 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,578 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,578 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,578 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,578 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,578 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,578 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,578 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,578 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,579 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,579 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:14,579 INFO  View.GamePanel (GamePanel.java:269) - A Shape is Acquired
+2017-09-12 12:30:24,008 INFO  Player.Player (Player.java:166) - Player 2's Control Strategy is set to mouse
+2017-09-12 12:31:15,793 INFO  Player.Player (Player.java:166) - Player 2's Control Strategy is set to mouse
+2017-09-12 12:31:16,146 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,161 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,166 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,177 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,187 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,197 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,207 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,218 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,227 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,238 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,247 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,258 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,267 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,278 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,287 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,298 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,307 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,318 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,327 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,338 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,348 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,359 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,371 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,378 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,388 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,399 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,408 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,419 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,428 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,439 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,448 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,459 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,469 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,480 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,489 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,500 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,509 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,520 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,529 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,540 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,549 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,560 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,569 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,581 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,589 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,600 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,609 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,621 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,630 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,641 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,651 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,661 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,671 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,685 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,691 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,702 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,711 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,722 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,731 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,741 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,751 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,761 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,771 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,782 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,791 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,805 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,812 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,822 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,834 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,843 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,852 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,863 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,873 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,889 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,897 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,903 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,912 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,923 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,932 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,943 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,953 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,964 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,973 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,984 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:16,993 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,034 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,045 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,054 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,065 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,075 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,085 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,094 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,105 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,114 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,125 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,134 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,145 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,154 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,165 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,174 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,186 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,195 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,206 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,214 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,225 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,237 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,246 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,255 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,266 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,275 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,286 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,295 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,307 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,316 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,327 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,336 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,347 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,356 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,367 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,376 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,387 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,396 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,409 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,416 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,428 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,437 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,448 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,457 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,468 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,477 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,488 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,497 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,508 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,517 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,539 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,548 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,558 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,860 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,871 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,880 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,891 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,900 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,911 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,920 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,932 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,941 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,952 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,961 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,972 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:17,981 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:20,724 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:20,752 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:20,759 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:20,764 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:20,775 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:20,784 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:20,797 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:20,804 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:20,815 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:20,937 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:20,967 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:20,976 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:20,987 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:20,996 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,007 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,016 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,028 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,037 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,048 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,057 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,068 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,077 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,088 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,097 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,109 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,118 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,129 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,149 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,169 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,260 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,270 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,339 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:21,360 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,273 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,284 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,294 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,305 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,313 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,324 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,334 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,345 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,354 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,365 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,374 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,385 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,394 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,405 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,414 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,426 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,435 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,446 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,455 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,505 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,516 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,525 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,536 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,546 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,557 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,566 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,586 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,698 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,717 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,788 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,797 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,809 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,818 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,829 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,839 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:23,849 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-09-12 12:31:26,858 INFO  Player.Player (Player.java:365) - Player 2 Moved
